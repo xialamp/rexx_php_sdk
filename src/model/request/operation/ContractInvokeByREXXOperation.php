@@ -16,6 +16,8 @@ class ContractInvokeByREXXOperation extends BaseOperation {
         $this->operationType = OperationType::CONTRACT_INVOKE_BY_REXX;
     }
 
+
+    
     /**
      * 
      */
